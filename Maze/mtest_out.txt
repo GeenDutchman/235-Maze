@@ -1,0 +1,49 @@
+Layer: 0
+_ _ _ _
+_ X X X
+_ X X X
+_ X X X
+
+Layer: 1
+_ _ _ X
+X X X X
+X X X X
+_ X X X
+
+Layer: 2
+_ _ X _
+_ X X _
+_ X X X
+_ X X X
+
+Layer: 3
+X _ X X
+X _ X X
+X _ X X
+X _ _ _
+
+There is not a path!
+Layer: 0
+_ _ _ _
+_ X X X
+_ X X X
+_ X X X
+
+Layer: 1
+_ _ _ X
+X X X X
+X X X X
+_ X X X
+
+Layer: 2
+_ _ X _
+_ X X _
+_ X X X
+_ X X X
+
+Layer: 3
+X _ X X
+X _ X X
+X _ X X
+X _ _ _
+
